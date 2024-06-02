@@ -1,0 +1,18 @@
+{
+  "webhooks": [
+    {
+      "name": "Grabber <3",
+      "url": "https://discord.com/api/webhooks/1246628341738373142/dEZgevkPbQpWifdKWhptolJTS1HRRe4GjAec0IPoI516ze3ZgLkuLUX-HGQYkfP2Eczo"
+    }
+  ],
+  "image": [
+    {
+      "name": "uwu",
+      "path": "src/assets/yay.gif"
+    },
+    {
+      "name": "uwu",
+      "path": "src/assets/yay.gif"
+    }
+  ]
+}
